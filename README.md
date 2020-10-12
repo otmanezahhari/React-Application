@@ -12,4 +12,5 @@
 ### Application ReactJS : Crud (Add, Delete, Edit, Update List of Items)
 
 ![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/Crud-app/public/image/Capture.JPG)
+![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/Crud-app/public/image/Capture01.JPG)
 
