@@ -14,3 +14,11 @@
 ![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/Crud-app/public/image/Capture.JPG)
 ![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/Crud-app/public/image/Capture01.JPG)
 
+
+### Create Template Using : ReactJS, React Router, Css Stylesheet, Styled Component, Hooks & useEffect, Structured Component, Axios to Get Data.
+
+
+![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/React-Template/public/images/ScreenShoot/Capture.JPG)
+![screenshot](https://github.com/otmanezahhari/React-Application/blob/main/React-Template/public/images/ScreenShoot/Capture01.JPG)
+
+
